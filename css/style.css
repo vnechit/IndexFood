@@ -225,4 +225,5 @@ body {
 .sweet-basket {
     background: url("../img/sweet_basket.png") no-repeat center;
     background-size: cover;
+    z-index: -2;
 }
